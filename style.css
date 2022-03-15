@@ -93,7 +93,7 @@ color: #212121;
   color: #E2D374;
 }
 
-a::after {
+/* a::after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -103,13 +103,13 @@ a::after {
   background-color: #E2D374;
   opacity: 0;
   transition: opacity 300ms, transform 300ms;
-  }
+  } */
   
-  a:hover::after,
+  /* a:hover::after,
   a:focus::after {
   opacity: 1;
   transform: translate3d(0, 0.2em, 0);
-  }
+  } */
   
   /* Slide in */
   li:nth-child(2) a {
@@ -127,7 +127,7 @@ a::after {
   }
   
   /* Scale from center */
-  li:nth-child(3) a::after {
+  /* li:nth-child(3) a::after {
   opacity: 1;
   transform: scale(0);
   transform-origin: center;
@@ -136,7 +136,7 @@ a::after {
   li:nth-child(3) a:hover::after,
   li:nth-child(3) a:focus::after{
   transform: scale(1);
-  }
+  } */
   
 
 .sec {
