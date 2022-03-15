@@ -156,6 +156,8 @@ color: #212121;
   line-height: 21px;
 
   color: #C7C5C5;
+   text-align: justify;
+  text-justify: inter-word;
 }
 
 .l {
