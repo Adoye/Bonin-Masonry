@@ -368,7 +368,7 @@ color: #C7C5C5;
   position: relative;
   width: 500px;
 height: 28px;
-left: 450px;
+left: 400px;
 top: 250px;
 }
 
@@ -394,7 +394,7 @@ top: 250px;
 .next {
   cursor: pointer;
   position: absolute;
-  top: 300px;
+  top: 250px;
   width: auto;
   padding: 16px;
   margin-top: -50px;
