@@ -46,8 +46,7 @@ color: #212121;
 
 .logo {
   position: absolute;
-  width: 842px;
-  height: 127px;
+  max-width: 100px;
   left: 163px;
   top: 31px;
 
