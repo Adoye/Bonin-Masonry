@@ -366,7 +366,7 @@ color: #C7C5C5;
 
 .contain {
   position: relative;
-  width: 300px;
+  width: 500px;
 height: 28px;
 left: 450px;
 top: 250px;
@@ -394,7 +394,7 @@ top: 250px;
 .next {
   cursor: pointer;
   position: absolute;
-  top: 150px;
+  top: 50px;
   width: auto;
   padding: 16px;
   margin-top: -50px;
