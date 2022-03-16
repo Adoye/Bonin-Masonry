@@ -366,22 +366,16 @@ color: #C7C5C5;
 
 .contain {
   position: relative;
-<<<<<<< HEAD
   width: 500px;
-=======
   width: 350px;
->>>>>>> e195283c7ffb268c65f434c07da2ae2dc7326948
 height: 28px;
 left: 550px;
 top: 250px;
 }
 
 .si {
-<<<<<<< HEAD
   width: 500px;
-=======
   width: 350px;
->>>>>>> e195283c7ffb268c65f434c07da2ae2dc7326948
   height: 450px;
 }
 
@@ -403,11 +397,8 @@ top: 250px;
   cursor: pointer;
   position: absolute;
   top: 250px;
-<<<<<<< HEAD
   width: 50px;
-=======
   width: auto;
->>>>>>> e195283c7ffb268c65f434c07da2ae2dc7326948
   padding: 16px;
   margin-top: -50px;
   color: white;
@@ -511,7 +502,6 @@ top: 250px;
   #primary { width:100%; }
   #secondary { width:100%; margin:0; border:none; }
 }
-<<<<<<< HEAD
 
 .han {
   position: absolute;
@@ -602,7 +592,3 @@ color: #C7C5C5;
   left: 730px;
   top: 600px;
 }
-
-
-=======
->>>>>>> e195283c7ffb268c65f434c07da2ae2dc7326948
